@@ -1,2 +1,2 @@
 # Advanced-Static-Analysis
-Advanced static analysis is a technique used to analyze the code and structure of malware without executing it.
+Advanced static analysis is a technique used to analyze the code and structure of malware without executing it. This can help us identify the malware’s behavior and weaknesses and develop signatures for antivirus software to detect it. By analyzing the code and structure of malware, researchers can also better understand how it works and develop new techniques for defending against it.
